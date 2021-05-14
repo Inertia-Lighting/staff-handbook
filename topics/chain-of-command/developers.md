@@ -1,0 +1,8 @@
+# [staff-handbook](../../README.md) > [chain-of-command](./chain-of-command.md) > developers
+
+## Developers (in order of chain of command)
+1. Head of Developers
+2. Lead Developers
+3. Senior Developer
+4. Junior Developer
+5. Trainee Developer
