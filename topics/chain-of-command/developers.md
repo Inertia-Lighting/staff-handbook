@@ -4,5 +4,6 @@
 1. [Head of Developers](./team-leaders.md)
 2. Lead Developers
 3. Senior Developer
-4. Junior Developer
-5. Trainee Developer
+4. Intermediate Developer
+5. Junior Developer
+6. Trainee Developer
