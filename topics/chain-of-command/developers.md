@@ -7,3 +7,14 @@
 4. Intermediate Developer
 5. Junior Developer
 6. Trainee Developer
+
+## Responsibilities
+- ### [Head of Developers](./team-leaders.md)
+- ### Lead Developer
+    Lead Developers are in charge of all developers working on projects such as the website, discord bot, api server, and products.
+- ### Senior Developer
+    ...
+- ### Junior Developer
+    ...
+- ### Trainee Developer
+    ...
