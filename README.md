@@ -5,5 +5,5 @@ This repository is aimed towards providing Inertia Lighting staff rules and guid
 
 ## Topics (please read in order)
 - [Staff Responsibilities](./topics/staff-responsibilities/staff-responsibilities.md)
-- [Enforcement of Rules](./topics/staff-responsibilities/staff-responsibilities.md)
+- [Enforcement of Rules](./topics/enforcement-of-rules/enforcement-of-rules.md)
 - [Chain of Command](./topics/chain-of-command/chain-of-command.md)
