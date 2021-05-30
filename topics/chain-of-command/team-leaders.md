@@ -4,7 +4,7 @@
 - Head of Administrators and Moderators
 - Head of Developers
 - Head of Marketing and Media
-- Head of Customer Support & Public Relations
+- Head of Customer Support and Public Relations
 
 ## Meme
 ![Star Wars Meme](/assets/media/images/meme--yes-my-lord--company-management-team-leaders.gif)
