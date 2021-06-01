@@ -11,4 +11,10 @@ In pursuit of that goal, this handbook has been created to provide a resource fo
 - ### Team Leaders
     - Team Leaders are the head of each category that they oversee, and are expected to carry out what Company Management wishes.
 - ### Administrators and Moderators
-    - Administrators and Moderators are the sword/shield of our staff team that exist to uphold our rules and keep a safe community.
+    - Administrators and Moderators are the sword/shield of our staff team that exist to uphold our rules and keep our community safe.
+- ### Developers
+    - Developers are the building blocks that enabled us get where we are and are the driving force behind what our community loves.
+- ### Marketing and Media
+    - Marketing and Media are a necessary evil, one that exists to ensure our viability to the community and our continuance into the future.
+- ### Customer Support
+    - Customer Support are the unsung heroes of Inertia Lighting, and are the glue that keeps our community together.
