@@ -14,36 +14,33 @@ Staff members are expected to follow the chain of command.
 **Good Examples:**
 - > OrangeDragonSlayer (Moderator) has an urgent question, they ask an Admin, no response was given in a timely manner, then they ask a relevant Team Leader.
 
-- > Tony (Junior Developer) wishes to implement a new feature for a codebase that they have access to, first they ask the Lead Developer who is in-charge of the codebase.
+- > TonyTheTiger (Junior Developer) wishes to implement a new feature for a codebase that they have access to, first they ask a Lead Developer who is in-charge of the codebase.
 
-- > Connie (Administrator) notices that Bonk (Moderator) is having difficulties in assisting a member of our community, Connie proceeds to discretely message Bonk on what they could do to help.
+- > MrBoomFantastic (Administrator) notices that Fisherman32 (Moderator) is having difficulties in assisting a member of our community, MrBoomFantastic proceeds to discretely message Fisherman32 on what they could do to help.
 
 **Bad Examples:**
-- > DjHardly (Moderator) has a non-urgent question, they ask Company Management in 27 separate messages that ping each time.
+- > ToasterBath72 (Moderator) has a non-urgent question, they ask Company Management in 27 separate messages that ping each time.
 
-  DjHardly should talk to a Team Leader before resorting to Company Management, (also don't ping 27 times 😉).
+  ToasterBath72 should talk to a Team Leader before resorting to Company Management, (also don't ping 27 times 😉).
 
-- > NotCreatorWill (Junior Developer) modifies an existing codebase without permission.
+- > ProgrammerGod69 (Junior Developer) modifies an existing codebase without permission.
 
   All developers are expected to notify and ask for permission from a Lead Developer who is in charge of the codebase.  
   Adding to that, any new projects must be approved by the Head of Developers.
 
-- > Penguin (Moderator) tells an upper-level member of staff:  
-    >> oh boo hoo? do u want a medal?  
-    >> i dont know why you think that means anything  
-    >> you should treat your staff equally  
-    >> just because you're bod doesn't mean you are better than everyone  
+- > Snowball (Moderator) tells an upper-level member of staff:  
+    >> Do you want a cookie?  
+    >> I don't know why you think that means anything.  
+    >> Just because you're a Team Leader doesn't mean that you are better than everyone.  
     >  
-    >> do i give a fuck lol
+    >> Do you think that I give a fuck?  
+    >> Use your ears and listen to me!
     >  
-    >> use your listening ears
-    >  
-    >> ive had enough of this bullshit lol  
-    >> im not listening to you right now  
-    >> we will continue this child play tomorrow when i file a complaint skuppo.
+    >> I've had enough of this...  
+    >> I'm not listening to you anymore.  
 
-  In this example, Penguin is being extraordinarily rude, unhelpful and unprofessional.  
-  Doing what Penguin did, is not appropriate, and may result in termination from being a member of staff.
+  In this example, Snowball is being extraordinarily rude, unhelpful, and unprofessional.  
+  Doing what Snowball did, is not appropriate, and may result in termination from being a member of staff.
 
 - > EntitledKaren (Administrator) rudely tells Company Management how to do their jobs.
 
