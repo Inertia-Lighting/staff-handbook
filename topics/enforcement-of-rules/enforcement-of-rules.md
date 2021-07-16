@@ -3,42 +3,67 @@
 ## Introduction
 On this page, you will find various guidelines and expectations that our staff are expected to follow when enforcing the rules.
 
+## Expectations When Enforcing The Rules
+- all commands used when enforcing the rules must include a reason for the action.
+- rules will be enforced in a professional and professional manner.
+- staff must be able to explain the rules to a person who is not familiar with them.
+- rules may only be enforced to content that has existed with a 7-day period.
+
 ## Rules & Enforcements
 - ### Not respecting the rights of the LGBTQ+ community:
     - **1st offence:** warning via command and inform the user of what happens next.
-    - **2nd offence:** mute/jail via command and inform the user of what happens next.
-    - **3rd offence:** permanent ban from all of Inertia Lighting.
+    - **2nd offence:** mute via command and inform the user of what happens next.
+    - **3rd offence:** permanent ban.
 
 - ### Racism:
     - **1st offence:** warning via command and inform the user of what happens next.
-    - **2nd offence:** mute/jail via command and inform the user of what happens next.
-    - **3rd offence:** permanent ban from all of Inertia Lighting.
+    - **2nd offence:** mute via command and inform the user of what happens next.
+    - **3rd offence:** permanent ban.
 
-- ### Promoting religious beliefs **and/or** political propaganda:
+- ### Derogatory language (ex: the n-word ending with "er"):
+    - **1st offence:** permanent ban.
+
+- ### Harassment:
     - **1st offence:** verbal warning.
-    - **2nd offence:** warning via command.
-    - **3rd offence:** warning via command and inform the user of what happens next.
-    - **4th offence:** permanent ban from all of Inertia Lighting.
+    - **2nd offence:** warning via command and inform the user of what happens next.
+    - **3rd offence:** kick via command.
+    - **4th offence:** permanent ban.
+
+- ### Promoting religious beliefs or political content/propaganda:
+    - **1st offence:** verbal warning.
+    - **2nd offence:** warning via command and inform the user of what happens next.
+    - **3rd offence:** mute via command and inform the user of what happens next.
+    - **4th offence:** permanent ban.
 
 - ### Leaking copyright protected code/art/etc:
-    - Notify the Head of Developers (or anyone above them) to handle this.
+    - Notify the Head of Developers (or anyone above them) to handle it.
 
 - ### Doxing (releasing personal information):
-    - Notify a Senior Admin (or anyone above them) to handle this.
+    - Notify a Senior Admin (or anyone above them) to handle it.
+
+- ### Posting malicious links / files, ip grabbers, etc:
+    - **1st offence:** warning via command and inform the user of what happens next.
+    - **2nd offence:** mute via command and inform the user of what happens next.
+    - **3rd offence:** permanent ban.
 
 - ### Self-promoting/advertising (without permission):
     - **1st offence:** verbal warning.
-    - **2nd offence:** warning via command.
-    - **3rd offence:** warning via command and inform the user of what happens next.
-    - **4th offence:** mute/jail via command.
+    - **2nd offence:** warning via command and inform the user of what happens next.
+    - **3rd offence:** mute via command.
 
-- ### Spamming (text/media/voice):
+- ### Normal spamming (text/media/voice):
     - **1st offence:** verbal warning.
     - **2nd offence:** warning via command and inform the user of what happens next.
-    - **3rd offence:** mute/jail via command.
+    - **3rd offence:** mute via command.
+    - **4th offence:** permanent ban.
 
-- ### Having an NSFW profile picture:
-    - Warning via command then kick from the server.
+- ### Automated spamming (text/media/voice):
+    - **1st offence:** permanent ban.
+
+- ### Having an NSFW (nude/explicit) profile picture:
+    - **1st offence:** kick via command and inform the user of what happens next.
+    - **2nd offence:** same as the 1st offence.
+    - **3rd offence:** permanent ban.
 
 - ### Having a nickname containing unicode characters or NSFW content:
-    - Change their nickname without giving any warnings.
+    - Change their nickname to "Illegal Nickname" without giving any warnings.
