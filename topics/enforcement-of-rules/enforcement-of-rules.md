@@ -26,7 +26,7 @@ On this page, you will find various guidelines and expectations that our staff a
 - ### Harassment:
     - **1st offence:** verbal warning.
     - **2nd offence:** warning via command and inform the user of what happens next.
-    - **3rd offence:** kick via command.
+    - **3rd offence:** kick via command and inform the user of what happens next.
     - **4th offence:** permanent ban.
 
 - ### Promoting religious beliefs or political content/propaganda:
@@ -43,8 +43,7 @@ On this page, you will find various guidelines and expectations that our staff a
 
 - ### Posting malicious links / files, ip grabbers, etc:
     - **1st offence:** warning via command and inform the user of what happens next.
-    - **2nd offence:** mute via command and inform the user of what happens next.
-    - **3rd offence:** permanent ban.
+    - **2nd offence:** permanent ban.
 
 - ### Self-promoting/advertising (without permission):
     - **1st offence:** verbal warning.
