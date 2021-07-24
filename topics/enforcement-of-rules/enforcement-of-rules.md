@@ -66,3 +66,7 @@ On this page, you will find various guidelines and expectations that our staff a
 
 - ### Having a nickname containing unicode characters or NSFW content:
     - Change their nickname to "Illegal Nickname" without giving any warnings.
+
+- ### Sending content that might trigger an epileptic episode or seizure:
+    - Remove the content and kindly ask the user to mark the content as a spoiler with a message warning people to use caution.
+    - If the user is intentionally sending content that may cause seizures, then mute via command.
