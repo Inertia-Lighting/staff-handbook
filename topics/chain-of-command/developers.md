@@ -1,6 +1,6 @@
 # [staff-handbook](../../README.md) > [chain-of-command](./chain-of-command.md) > developers
 
-## Developers (in order of chain of command)
+## Developers
 1. [Head of Developers](./team-leaders.md)
 2. Lead Developers
 3. Senior Developers
@@ -16,7 +16,7 @@
 - ### Senior Developers
     Senior Developers are experienced developers who are responsible for development tasks such as writing code, managing dependencies, theorizing new solutions, writing documentation, and testing.
 - ### Intermediate Developers
-    Intermediate Developers carry out various tasks given to them by Senior Developers & Lead Developers.
+    Intermediate Developers carry out various tasks given to them by Senior Developers and Lead Developers.
 - ### Junior Developers
     Junior Developers are similar to Intermediate Developers, but are given lower-level tasks, such as developing project-agnostic solutions.
 - ### Trainee Developers

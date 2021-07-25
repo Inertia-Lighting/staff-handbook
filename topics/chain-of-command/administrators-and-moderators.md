@@ -11,7 +11,7 @@
 - ### [Head of Administrators and Moderators](./team-leaders.md)
     The Head of Administrators and Moderators carries the same responsibilities of Senior Administrators and is additionally responsible for the overall administration and training of all Administrators and Moderators.
 - ### [Senior Administrators](./senior-administrator.md)
-    Senior Administrators carry the same responsibilities of Junior Administrators and are additionally trusted with the oversight and assistance with the training of Junior Administrators.
+    Senior Administrators carry the same responsibilities of Junior Administrators and are additionally trusted with the oversight and assisting with the training of staff applicants.
 - ### [Junior Administrators](./junior-administrator.md)
     Junior Administrators carry the same responsibilities of Senior Moderators and are additionally responsible for the oversight of Senior Moderators and Junior Moderators.
 - ### [Senior Moderators](./senior-moderator.md)
