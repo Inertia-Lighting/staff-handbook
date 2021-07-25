@@ -5,7 +5,7 @@ Staff are expected to:
 - use common sense.
 - be responsible for their actions.
 - properly answer questions and resolve issues.
-- report unacceptable behavior to upper-level staff.
+- report unacceptable behavior to higher-level staff.
 - [enforce our rules](../enforcement-of-rules/enforcement-of-rules.md) and follow it themselves.
 - follow the [chain of command](../chain-of-command/chain-of-command.md).
 - follow instructions given by higher-level staff.  

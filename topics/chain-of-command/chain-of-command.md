@@ -9,7 +9,9 @@
    [Customer Support](./customer-support.md)
 
 ## Responsibilities
-Staff members are expected to follow the chain of command.
+Staff members are expected to follow the chain of command.  
+Following the chain of command allows for our staff team to be efficient and effective.  
+Whenever possible, staff members should reach out to the next level of the chain of command instead of reaching out directly to Company Management.
 
 **Good Examples:**
 - > OrangeDragonSlayer (Moderator) has an urgent question, they ask an Admin, no response was given in a timely manner, then they ask a relevant Team Leader.
@@ -28,7 +30,7 @@ Staff members are expected to follow the chain of command.
   All developers are expected to notify and ask for permission from a Lead Developer who is in charge of the codebase.  
   Adding to that, any new projects must be approved by the Head of Developers.
 
-- > Snowball (Moderator) tells an upper-level member of staff:  
+- > Snowball (Moderator) tells a higher-level member of staff:  
     >> Do you want a cookie?  
     >> I don't know why you think that means anything.  
     >> Just because you're a Team Leader doesn't mean that you are better than everyone.  
