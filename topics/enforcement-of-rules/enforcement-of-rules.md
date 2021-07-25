@@ -4,10 +4,10 @@
 On this page, you will find various guidelines and expectations that our staff are expected to follow when enforcing the rules.
 
 ## Expectations When Enforcing The Rules
-- all commands used when enforcing the rules must include a reason for the action.
-- rules will be enforced in a professional and professional manner.
+- all commands used when enforcing the rules must include a reason for the action (whenever available).
+- rules will be enforced in a courteous and professional manner.
 - staff must be able to explain the rules to a person who is not familiar with them.
-- rules may only be enforced to content that has existed with a 7-day period.
+- rules may only be enforced to content that has existed within a 7-day period.
 
 ## Rules & Enforcements
 - ### Not respecting the rights of the LGBTQ+ community:

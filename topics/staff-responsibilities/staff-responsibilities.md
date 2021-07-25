@@ -6,7 +6,7 @@ In pursuit of that goal, this handbook has been created to provide a resource fo
 
 ## Responsibilities
 - ### Company Management
-    - Company Management exists to manage all aspects of community, you can think of Company Management as Owners.
+    - Company Management exists to manage all aspects of the community, you can think of Company Management as Owners.
 - ### Team Leaders
     - Team Leaders are the head of each team that they oversee, and are expected to carry out what is given to them by Company Management.
     - Being a Team Leader is a tough gig... Some people don't like it, but you are incredibly important part of keeping our teams productive, healthy, and most importantly: respected by of our community.
@@ -31,7 +31,7 @@ In pursuit of that goal, this handbook has been created to provide a resource fo
 - ### Marketing and Media
     - Marketing and Media are a necessary evil, one that exists to ensure our viability to the community and our continuance into the future
     - They are responsible for creating graphics, videos, and ensuring that our community / products are marketable.
-    - Just don't pull a Discord re-branding on us.
+    - Just don't pull a Discord re-branding on us ;).
 - ### Customer Support
     - Customer Support are the unsung heroes of Inertia Lighting, and are the glue that keeps our community together.
     - They assist our community in our server and support tickets to ensure that all members are satisfied with our products and services.

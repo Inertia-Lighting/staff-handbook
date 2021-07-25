@@ -17,7 +17,7 @@ Staff are expected to:
 - ensure and respect confidentiality of hidden content whenever possible.  
   As an example, messages sent in **#staff-chat** should not be shared with individuals that lack access to **#staff-chat**.  
   The same logic applies to direct messages.
-- do not tell higher-level staff how to do their job.
+- don't tell company management how to do their jobs.
 
 ## Failure to Comply
 Failure to comply with these rules will result in an appropriate action being taken.  
