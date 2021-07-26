@@ -21,7 +21,7 @@ On this page, you will find various guidelines and expectations that our staff a
     - **3rd offence:** permanent ban.
 
 - ### Derogatory language (ex: the n-word ending with "er"):
-    - **1st offence:** permanent ban.
+    - **1st offence:** permanent ban as we do not tolerate it.
 
 - ### Harassment:
     - **1st offence:** verbal warning.

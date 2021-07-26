@@ -2,10 +2,11 @@
 
 ## Rules for Staff
 Staff are expected to:
+- read, understand, and adhere to all aspects of this handbook.
 - use common sense.
 - be responsible for their actions.
 - properly answer questions and resolve issues.
-- report unacceptable behavior to higher-level staff.
+- report suspicious / unacceptable behavior to higher-level staff.
 - [enforce our rules](../enforcement-of-rules/enforcement-of-rules.md) and follow it themselves.
 - follow the [chain of command](../chain-of-command/chain-of-command.md).
 - follow instructions given by higher-level staff.  

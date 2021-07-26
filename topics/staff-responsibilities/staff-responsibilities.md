@@ -6,7 +6,7 @@ In pursuit of that goal, this handbook has been created to provide a resource fo
 
 ## Responsibilities
 - ### Company Management
-    - Company Management exists to manage all aspects of the community, you can think of Company Management as Owners.
+    - Company Management exists to manage all aspects of the community and company, you can think of Company Management as Owners.
 - ### Team Leaders
     - Team Leaders are the head of each team that they oversee, and are expected to carry out what is given to them by Company Management.
     - Being a Team Leader is a tough gig... Some people don't like it, but you are incredibly important part of keeping our teams productive, healthy, and most importantly: respected by of our community.
