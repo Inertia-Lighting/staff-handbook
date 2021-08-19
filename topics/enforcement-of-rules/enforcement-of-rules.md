@@ -4,69 +4,87 @@
 On this page, you will find various guidelines and expectations that our staff are expected to follow when enforcing the rules.
 
 ## Expectations When Enforcing The Rules
-- all commands used when enforcing the rules must include a reason for the action (whenever available).
-- rules will be enforced in a courteous and professional manner.
-- staff must be able to explain the rules to a person who is not familiar with them.
-- rules may only be enforced to content that has existed within a 7-day period.
+- Rules must be enforced in a courteous and professional manner.
+- Staff should be able to explain the rules to a person who is not familiar with them.
+- Rules may only be enforced to content that has existed within a 7-day period.
+- All commands used when enforcing the rules must include a reason for the action (whenever available).
+- Be mindful of the context of any given situation and adjust actions taken accordingly.
+
+## Punishments
+- ### Extreme Severity
+    - 1st Violation:
+        - ban via command.
+
+- ### High Severity
+    - 1st Violation:
+        - mute via command.
+    - 2nd Violation:
+        - ban via command.
+
+- ### Medium Severity
+    - 1st Violation:
+        - warn via command.
+    - 2nd Violation:
+        - mute via command.
+    - 3rd Violation:
+        - ban via command.
+
+- ### Low Severity
+    - 1st Violation:
+        - verbal warning.
+    - 2nd Violation:
+        - warning via command.
+    - 3rd Violation:
+        - mute via command.
+    - 4th Violation:
+        - ban via command.
+
+- ### Common Sense
+    - For most situations, staff should use common sense and analyze the situation before acting.
 
 ## Rules & Enforcements
-- ### Harassing / targeting the LGBTQ+ community:
-    - **1st offence:** warning via command and inform the user of what happens next.
-    - **2nd offence:** mute via command and inform the user of what happens next.
-    - **3rd offence:** permanent ban.
+- ### Racism, targeting the LGBTQ+ community, etc:
+    - Resolve via **[Extreme Severity](#extreme-severity)** punishment.
 
-- ### Racism:
-    - **1st offence:** warning via command and inform the user of what happens next.
-    - **2nd offence:** mute via command and inform the user of what happens next.
-    - **3rd offence:** permanent ban.
+- ### Disrespect, harassment, targeting, etc:
+    - Resolve via **[Low Severity](#low-severity)** punishment.
 
-- ### Derogatory language (ex: the n-word ending with "er"):
-    - **1st offence:** permanent ban as we do not tolerate it.
+- ### Promoting (religious / political) beliefs, content, propaganda, etc:
+    - Resolve via **[Medium Severity](#medium-severity)** punishment.
 
-- ### Harassment / Disrespect:
-    - **1st offence:** verbal warning.
-    - **2nd offence:** warning via command and inform the user of what happens next.
-    - **3rd offence:** kick via command and inform the user of what happens next.
-    - **4th offence:** permanent ban.
+- ### Spreading Misinformation:
+    - Resolve via **[Medium Severity](#medium-severity)** punishment.
 
-- ### Promoting religious/political beliefs/content/propaganda:
-    - **1st offence:** verbal warning.
-    - **2nd offence:** warning via command and inform the user of what happens next.
-    - **3rd offence:** mute via command and inform the user of what happens next.
-    - **4th offence:** permanent ban.
+- ### Self-promoting / advertising (without explicit permission):
+    - Resolve via **[Low Severity](#low-severity)** punishment.
+
+- ### Sending scams, malicious links, files, ip grabbers, etc:
+    - Resolve via **[Extreme Severity](#extreme-severity)** punishment.
+
+- ### Automated spamming (text/media/voice/etc):
+    - Resolve via **[Extreme Severity](#extreme-severity)** punishment.
+
+- ### Normal spamming (text/media/voice/etc):
+    - Resolve via **[Low Severity](#low-severity)** punishment.
+
+- ### Explicit NSFW content (images/videos/etc):
+    - Resolve via **[Medium Severity](#medium-severity)** punishment.
+
+- ### Non-explicit NSFW content (images/videos/etc):
+    - Resolve using **[Common Sense](#common-sense)**.
 
 - ### Leaking copyright protected code/art/etc:
-    - Notify the Head of Developers (or anyone above them) to handle it.
+    - Notify the **Head of Legal** to handle it.
 
 - ### Doxing (releasing personal information):
-    - Notify a Senior Admin (or anyone above them) to handle it.
+    - Notify a **Senior Admin** to handle it.
 
-- ### Posting malicious links / files, ip grabbers, etc:
-    - **1st offence:** warning via command and inform the user of what happens next.
-    - **2nd offence:** permanent ban.
-
-- ### Self-promoting / advertising (without permission):
-    - **1st offence:** verbal warning.
-    - **2nd offence:** warning via command and inform the user of what happens next.
-    - **3rd offence:** mute via command.
-
-- ### Normal spamming (text/media/voice):
-    - **1st offence:** verbal warning.
-    - **2nd offence:** warning via command and inform the user of what happens next.
-    - **3rd offence:** mute via command.
-    - **4th offence:** permanent ban.
-
-- ### Automated spamming (text/media/voice):
-    - **1st offence:** permanent ban.
-
-- ### Having an NSFW (nude/explicit) profile picture:
-    - **1st offence:** kick via command and inform the user of what happens next.
-    - **2nd offence:** same as the 1st offence.
-    - **3rd offence:** permanent ban.
+- ### Having an explicit NSFW profile picture:
+    - Kick via command.
 
 - ### Having a nickname containing unicode characters or NSFW content:
-    - Change their nickname to "Illegal Nickname" without giving any warnings.
+    - Change their nickname without giving any warnings.
 
-- ### Sending content that might trigger an epileptic episode or seizure:
+- ### Sending content that may trigger an epileptic episode or seizure:
     - Remove the content and kindly ask the user to mark the content as a spoiler with a message warning people to use caution.
-    - If the user is intentionally sending content that may cause seizures, then mute via command.
+    - If the user is intentionally sending the content, then resolve via **[Extreme Severity](#extreme-severity)** punishment.
