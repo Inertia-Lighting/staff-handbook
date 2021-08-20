@@ -23,13 +23,13 @@ On this page, you will find various guidelines and expectations that our staff a
 - ### Derogatory language (ex: the n-word ending with "er"):
     - **1st offence:** permanent ban as we do not tolerate it.
 
-- ### Harassment:
+- ### Harassment / Disrespect:
     - **1st offence:** verbal warning.
     - **2nd offence:** warning via command and inform the user of what happens next.
     - **3rd offence:** kick via command and inform the user of what happens next.
     - **4th offence:** permanent ban.
 
-- ### Promoting religious beliefs or political content/propaganda:
+- ### Promoting religious/political beliefs/content/propaganda:
     - **1st offence:** verbal warning.
     - **2nd offence:** warning via command and inform the user of what happens next.
     - **3rd offence:** mute via command and inform the user of what happens next.
@@ -45,7 +45,7 @@ On this page, you will find various guidelines and expectations that our staff a
     - **1st offence:** warning via command and inform the user of what happens next.
     - **2nd offence:** permanent ban.
 
-- ### Self-promoting/advertising (without permission):
+- ### Self-promoting / advertising (without permission):
     - **1st offence:** verbal warning.
     - **2nd offence:** warning via command and inform the user of what happens next.
     - **3rd offence:** mute via command.
