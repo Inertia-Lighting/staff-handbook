@@ -10,7 +10,7 @@ On this page, you will find various guidelines and expectations that our staff a
 - rules may only be enforced to content that has existed within a 7-day period.
 
 ## Rules & Enforcements
-- ### Not respecting the rights of the LGBTQ+ community:
+- ### Harassing / targeting the LGBTQ+ community:
     - **1st offence:** warning via command and inform the user of what happens next.
     - **2nd offence:** mute via command and inform the user of what happens next.
     - **3rd offence:** permanent ban.
