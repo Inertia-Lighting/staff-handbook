@@ -28,7 +28,7 @@ Whenever possible, staff members should reach out to the next level of the chain
 - > ProgrammerGod69 (Junior Developer) modifies an existing codebase without permission.
 
   All developers are expected to notify and ask for permission from a Lead Developer who is in charge of the codebase.  
-  Adding to that, any new projects must be approved by the Head of Developers.
+  Adding to that, any new projects must be approved by the Head of Development.
 
 - > Snowball (Moderator) tells a higher-level member of staff:  
     >> Do you want a cookie?  

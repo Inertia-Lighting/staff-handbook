@@ -1,7 +1,7 @@
 # [staff-handbook](../../README.md) > [chain-of-command](./chain-of-command.md) > developers
 
 ## Developers
-1. [Head of Developers](./team-leaders.md)
+1. [Head of Development](./team-leaders.md)
 2. Lead Developers
 3. Senior Developers
 4. Intermediate Developers
@@ -9,8 +9,8 @@
 6. Trainee Developers
 
 ## Hierarchy
-- ### [Head of Developers](./team-leaders.md)
-    The Head of Developers is responsible for all aspects of development and the development team.
+- ### [Head of Development](./team-leaders.md)
+    The Head of Development is responsible for all aspects of development and the development team.
 - ### Lead Developers
     Lead Developers are in charge of projects such as the website, discord bot, api server, etc; along with the developers assigned to those projects.
 - ### Senior Developers

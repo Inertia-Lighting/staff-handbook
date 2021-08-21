@@ -1,15 +1,15 @@
 # [staff-handbook](../../README.md) > [chain-of-command](./chain-of-command.md) > administrators and moderators
 
 ## Administrators and Moderators (in order of chain of command)
-1. [Head of Administrators and Moderators](./team-leaders.md)
+1. [Head of Administration](./team-leaders.md)
 2. Senior Administrators
 3. Junior Administrators
 4. Senior Moderators
 5. Junior Moderators
 
 ## Hierarchy
-- ### [Head of Administrators and Moderators](./team-leaders.md)
-    The Head of Administrators and Moderators carries the same responsibilities of Senior Administrators and is additionally responsible for the overall administration and training of all Administrators and Moderators.
+- ### [Head of Administration](./team-leaders.md)
+    The Head of Administration carries the same responsibilities of Senior Administrators and is additionally responsible for the overall administration and training of all Administrators and Moderators.
 - ### [Senior Administrators](./senior-administrator.md)
     Senior Administrators carry the same responsibilities of Junior Administrators and are additionally trusted with the oversight and assisting with the training of staff applicants.
 - ### [Junior Administrators](./junior-administrator.md)
