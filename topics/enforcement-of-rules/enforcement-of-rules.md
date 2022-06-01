@@ -17,7 +17,7 @@ On this page, you will find various guidelines and expectations that our staff a
 
 - ### High Severity
     - 1st Violation:
-        - mute via command.
+        - timeout via command.
     - 2nd Violation:
         - ban via command.
 
@@ -25,7 +25,7 @@ On this page, you will find various guidelines and expectations that our staff a
     - 1st Violation:
         - warn via command.
     - 2nd Violation:
-        - mute via command.
+        - timeout via command.
     - 3rd Violation:
         - ban via command.
 
@@ -35,7 +35,7 @@ On this page, you will find various guidelines and expectations that our staff a
     - 2nd Violation:
         - warning via command.
     - 3rd Violation:
-        - mute via command.
+        - timeout via command.
     - 4th Violation:
         - ban via command.
 
@@ -43,8 +43,11 @@ On this page, you will find various guidelines and expectations that our staff a
     - For most situations, staff should use common sense and analyze the situation before acting.
 
 ## Rules & Enforcements
-- ### Racism, targeting the LGBTQ+ community, etc:
+- ### Calls for violence based on race or sexuality:
     - Resolve via **[Extreme Severity](#extreme-severity)** punishment.
+
+- ### Racism, targeting the LGBTQ+ community, etc:
+    - Resolve via **[High Severity](#high-severity)** punishment.
 
 - ### Disrespect, harassment, targeting, etc:
     - Resolve via **[Low Severity](#low-severity)** punishment.
