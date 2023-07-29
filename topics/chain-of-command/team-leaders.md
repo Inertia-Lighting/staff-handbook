@@ -1,13 +1,10 @@
 # [staff-handbook](../../README.md) > [chain-of-command](./chain-of-command.md) > team leaders
 
 ## Team Leaders
-- Head of Administration
-- Head of Development
-- Head of Marketing
-- Head of Training
-- Head of Support
-- Head of Events
-- Head of Legal
+- Head of Moderation
+- Head of Customer Service
+- Head of Public Relations
+- Project Manager
 
 ## Responsibilities
 - If you made it this far, you should know what is expected from you!  
