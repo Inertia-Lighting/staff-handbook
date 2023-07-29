@@ -1,17 +1,22 @@
 # [staff-handbook](../../README.md) > [chain-of-command](./chain-of-command.md) > customer support
 
-## Customer Support
-1. [Head of Support](./team-leaders.md)
-- Support: Partners
-- Support: PayPal
-- Support: Database
-- Support: Purchases
-- Support: Issues
-- Support: Questions
-- Support: Other
+## Customer Service
+1. [Head of Customer Service](./team-leaders.md)
+2. Support Specialist
+3. Support Agent
+4. Support Trainee
+- Support | Partners
+- Support | Database
+- Support | Purchases
+- Support | Services
+- Support | Products
+- Support | Questions
+- Support | Translator
+- Support | Appeals
+- Support | Other
 
 ## Responsibilities
-- Support Staff are expected to:
+- Support staff are expected to:
     - always be courteous, helpful, and respectful.
     - make themselves available to answer questions.
     - assist with the resolution of tickets within a timely manner.

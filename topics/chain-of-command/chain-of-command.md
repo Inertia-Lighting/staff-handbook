@@ -3,10 +3,10 @@
 ## Chain of Command
 1. [Company Management](./company-management.md)
 2. [Team Leaders](./team-leaders.md)
-3. [Administrators and Moderators](./administrators-and-moderators.md)
-4. [Developers](./developers.md)  
-   [Marketing and Media](./marketing-and-media.md)  
-   [Customer Support](./customer-support.md)
+3. [Moderation](./moderation.md)  
+   [Development](./developers.md)  
+   [Public Relations](./public-relations.md)  
+   [Customer Service](./customer-service.md)  
 
 ## Responsibilities
 Staff members are expected to follow the chain of command.  
