@@ -4,7 +4,7 @@
 Inertia Lighting staff have a responsibility to create, uphold, and harbor a safe space for our community to engage and flourish in.  
 In pursuit of that goal, this handbook has been created to provide a resource for all staff (and the community) to be able to read.
 
-# Expectation of Active Participation
+## Expectation of Active Participation
 As a member of staff, you are expected to provide a minimum of three (3) hours per week towards Inertia.
 If you are in multiple departments, you are expected to spread your available time to all of your roles in Inertia.
 Expected hours may be altered at discretion of Company Management.
