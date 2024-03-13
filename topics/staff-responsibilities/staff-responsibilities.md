@@ -38,6 +38,7 @@ Expected hours may be altered at discretion of Company Management.
     - They are responsible for creating graphics, videos, and ensuring that our community / products are marketable.
     - Just don't pull a Discord re-branding on us ;).
 - ### Customer Support
+    - [Read this](../chain-of-command/chain-of-command.md)
     - Customer Support are the unsung heroes of Inertia Lighting, and are the glue that keeps our community together.
     - They assist our community in our server and support tickets to ensure that all members are satisfied with our products and services.
     - "Don't be a jackass to our customers" ~ Ross (2021)
